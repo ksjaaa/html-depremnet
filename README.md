@@ -1,0 +1,2 @@
+# html-depremnet
+Son Depremler
