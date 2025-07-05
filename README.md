@@ -1,2 +1,2 @@
-# html-depremnet
+# index.html
 Son Depremler
